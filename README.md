@@ -1,4 +1,4 @@
-# Projeto: Far Away
+# Projeto: Far Away 🇧🇷
 
 ## Descrição
 
@@ -38,4 +38,46 @@ Durante o desenvolvimento do Far Away, foram utilizadas várias técnicas avanç
 
 ## Acesse o Projeto
 
-Você pode acessar o projeto Far Away [aqui](http://seu-link-para-o-projeto.com).
+Você pode acessar o projeto Far Away [aqui](https://far-away-nw8l.onrender.com).
+
+# Project: Far Away 🇺🇸
+
+## Description
+
+Far Away is an application designed to help you create a list of items you shouldn't forget to pack for your trip. With advanced features, Far Away makes organizing and managing all your essential travel items easy.
+
+## Key Features
+
+- **Item List Creation:** Add items to your travel list to ensure nothing is forgotten.
+- **List Organization:** Organize your list by input order, alphabetically, or by unchecked items.
+- **List Progress:** View the progress of items yet to be packed, displayed at the bottom of the page as a percentage.
+- **Clear List:** Option to clear the entire list at once.
+
+## Technologies Used
+
+- React: The main framework used for building the application.
+- JavaScript: The programming language used for the application's logic.
+- CSS: Styling the application for a user-friendly and responsive interface.
+
+## Development Techniques
+
+During the development of Far Away, several advanced React techniques were utilized:
+
+- **State Creation and Management:** Efficient management of component states.
+- **Event Creation and Handling:** Responding to user events like clicks and input changes.
+- **Lifting State:** Lifting state up to parent components for data sharing.
+- **Derived State:** Calculating derived states based on existing states.
+- **Controlled Elements:** Inputs and forms controlled by React state.
+- **Props:** Passing data between components for code reuse and better organization.
+
+## How to Use
+
+1. **Add Items:** Enter items you need to remember to pack for your trip.
+2. **Organize the List:** Use the organization options to keep your list clear and easy to follow.
+3. **Check Packed Items:** As you pack items, mark them as packed to track your progress.
+4. **Check Progress:** Monitor the list progress through the percentage displayed at the bottom of the page.
+5. **Clear the List:** When finished or to start a new list, use the clear list option.
+
+## Access the Project
+
+You can access the Far Away project [here](https://far-away-nw8l.onrender.com).
