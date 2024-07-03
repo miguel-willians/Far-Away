@@ -9,7 +9,6 @@ export default function PackingList({
   onClearItems,
 }) {
   const [sortBy, setSortBy] = useState("input");
-  // Ao invés de criar um novo estado para cada filtro, podemos usar o estado derivado, utilizando uma cópia da lista de itens já existente.
   let sortedItems;
   if (sortBy === "input") sortedItems = items;
   if (sortBy === "description")
